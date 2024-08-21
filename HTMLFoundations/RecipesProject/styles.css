@@ -1,0 +1,38 @@
+
+.headings {
+    text-align: center;
+    color: blue;
+    font-size: 28px;
+}
+
+ul {
+    font-size: 22px;
+    text-align: left;
+    color: aqua;
+}
+
+ol {
+    font-size: 22px;
+    text-align: left;
+    color: rebeccapurple;
+}
+
+.steps {
+    font-size: 26px;
+    text-align: center;
+    color: brown;
+}
+
+.muffpic {
+    height: auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
