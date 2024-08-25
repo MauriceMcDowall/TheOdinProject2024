@@ -1,0 +1,14 @@
+button {
+    color: black;
+    background-color: silver;
+}
+
+h1 {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+}
+
+.b1 {
+    align-items:stretch;
+}
